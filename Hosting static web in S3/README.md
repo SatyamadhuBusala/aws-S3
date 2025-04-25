@@ -35,8 +35,23 @@ In the **Properties** tab, under **Static website hosting**, you'll see a **Buck
 - Make sure all files are in the root of the bucket unless you're using folders
 - S3 buckets must have unique names globally
 
-### Screenshorts 
-####  
+## 🖼️ Screenshots
 
+### 1. Create S3 Bucket  
+![Create Bucket](https://github.com/SatyamadhuBusala/aws-S3/blob/main/Hosting%20static%20web%20in%20S3/img/S3-bucket.png)
+
+---
+
+### 2. Make Objects Public  
+![Make Public](https://github.com/SatyamadhuBusala/aws-S3/blob/main/Hosting%20static%20web%20in%20S3/img/make%20as%20public.png)
+
+---
+
+### 3. Enable Static Website Hosting  
+![Enable Hosting](https://github.com/SatyamadhuBusala/aws-S3/blob/main/Hosting%20static%20web%20in%20S3/img/static%20web%20enable.png)
+
+---
+### 4. Final output  
+![Upload Files](https://github.com/SatyamadhuBusala/aws-S3/blob/main/Hosting%20static%20web%20in%20S3/img/final%20output.png)
 
 
